@@ -12,7 +12,7 @@
 --     and ensure you have proper backups before running this script.
 --
 -- Usage (run from terminal):
---     psql -U postgres -f init-db.sql
+--     psql -U postgres -f init_database.sql
 -- =============================================================
 
 -- Connect to the default postgres database to safely drop/create
